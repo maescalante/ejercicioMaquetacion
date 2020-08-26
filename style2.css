@@ -1,0 +1,21 @@
+.banner{
+    background-color:saddlebrown;
+    color:white;
+    height: 100%;
+    min-height:40px
+}
+.pink {
+    background-color: palevioletred;
+}
+.blue{
+    background-color: skyblue;
+}
+.mainc{
+   
+    min-height: 100px;
+    height:100%;
+ 
+}
+.footer{
+    color:white
+}
